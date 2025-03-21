@@ -1,0 +1,10 @@
+node_modules
+dist
+.idea
+.DS_Store
+.history
+.vscode
+yarn-error.log
+.editorconfig
+.swc
+dist.zip
